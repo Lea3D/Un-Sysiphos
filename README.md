@@ -1,9 +1,9 @@
 
-# Unsysiphos
+# Un-Sysiphos
 
 ## Description
 
-Unsysiphos is a Python tool that sorts photos based on EXIF and IPTC metadata. It organizes images into folders according to the camera make and model, or falls back on IPTC data if necessary.
+Un-Sysiphos is a Python tool that sorts photos based on EXIF and IPTC metadata. It organizes images into folders according to the camera make and model, or falls back on IPTC data if necessary.
 
 ## License
 
