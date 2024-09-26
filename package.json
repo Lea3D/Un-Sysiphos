@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap": "^5.3.3"
-  },
-  "devDependencies": {
-    "electron": "^32.1.2"
-  }
-}
